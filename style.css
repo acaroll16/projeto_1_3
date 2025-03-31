@@ -1,0 +1,18 @@
+h2
+{color: rgb(100, 3, 60);
+}
+body{
+    background-color: rgb(231, 149, 197);
+    color: black;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    color: rgb(94, 2, 40);
+}
+header{
+    border-bottom: 1px solid white;
+}
+footer{
+    border-top: 1px solid white;
+}
